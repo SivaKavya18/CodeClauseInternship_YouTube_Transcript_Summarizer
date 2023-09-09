@@ -1,0 +1,15 @@
+body{
+    padding:15px;
+}
+
+.head{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+.warn{
+    display: flex;
+    align-items: center;
+    padding:5px;
+}
